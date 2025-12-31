@@ -1,12 +1,12 @@
-## Apply for Radxa NX4
+## Apply for Radxa C200
 
-Radxa is donating some free [Radxa NX4](https://radxa.com/nx4) to open source hardware projects.
+Radxa is donating some free [Radxa C200](https://radxa.com/c200) to open source hardware projects.
 
 ## How to apply
 
 Send a new PR to this repository on GitHub, append your application table(sort Project Name). Radxa team will review/ask questions/discuss about the project detail. If the project is interesting or welcomed by the community, we will approve it. Radxa Team will contact the developer for the further sample shipping&development etc.
 
-## NX4 projects list:
+## C200 projects list:
 
-| Project Name        | NX4 Model     | Hardware(Carrier Board)                                      | Software                                                | Notes                                                        |
+| Project Name        | C200 Model    | Hardware(Carrier Board)                                      | Software                                                | Notes                                                        |
 | ------------------- | ------------- | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ |
