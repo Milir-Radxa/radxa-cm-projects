@@ -17,7 +17,5 @@ Welcome to the Radxa Computer on Module projects, this repo contains the carrier
 | ---------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------- |
 | [Radxa CM3S](https://rock.sh/cm3s) | Computer on Module based on RK3566 in SODIMM form factor, compatible with Raspberry Pi CM3/CM3+ | [CM3S Projects](./cm3s/README.md) |
 | [Radxa NX5](https://rock.sh/nx5)   | Computer on Module based on RK3588S in SODIMM form factor                                       | [NX5 Projects](./nx5/README.md)   |
-| [Radxa NX4](https://rock.sh/nx4)   | Computer on Module based on RK3557(J) in SODIMM form factor                                     | [C200 Projects](./c200/README.md) |
-| [Orin NX](https://rock.sh/c200-orin) | Computer on Module based on NVIDIA Jetson Orin Nano / NX in SODIMM form factor                | [C200 Projects](./c200/README.md) |
-
-Note: Radxa NX4 and Orin NX can refer to the C200 projects, related design materials can be found in the c200 directory.
+| [Radxa NX4](https://rock.sh/nx4)   | Computer on Module based on RK3557(J) in SODIMM form factor                                     | [NX4 Projects](./nx4/README.md) |
+| [Orin NX](https://rock.sh/c200-orin) | Computer on Module based on NVIDIA Jetson Orin NX in SODIMM form factor                       | [Orin NX Projects](./c200/README.md) |
