@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "sodimm",
+    "general_compute"
+  ],
+  "constraints": [],
+  "recommended_use_cases": [
+    "industrial",
+    "nas"
+  ]
+}

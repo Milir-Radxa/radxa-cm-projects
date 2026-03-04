@@ -1,0 +1,15 @@
+{
+  "id": "cm3i",
+  "name": "Radxa CM3I",
+  "category": "cm",
+  "soc": "RK3568(J)",
+  "form_factor": "raspberrypi_cm4_compatible",
+  "revision": null,
+  "links": [
+    {
+      "label": "product",
+      "url": "https://rock.sh/cm3i"
+    }
+  ],
+  "maintained_by": "radxa"
+}

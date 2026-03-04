@@ -1,0 +1,15 @@
+{
+  "id": "c200",
+  "name": "Radxa C200",
+  "category": "orin",
+  "soc": "NVIDIA Jetson Orin Nano or Orin NX",
+  "form_factor": "sodimm",
+  "revision": null,
+  "links": [
+    {
+      "label": "product",
+      "url": "https://rock.sh/c200-orin"
+    }
+  ],
+  "maintained_by": "radxa"
+}

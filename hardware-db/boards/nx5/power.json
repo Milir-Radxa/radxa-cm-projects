@@ -1,0 +1,12 @@
+{
+  "inputs": [
+    {
+      "type": "unknown",
+      "voltage_range": "unknown",
+      "connector": "unknown"
+    }
+  ],
+  "typical_power_w": null,
+  "max_power_w": null,
+  "poe": null
+}

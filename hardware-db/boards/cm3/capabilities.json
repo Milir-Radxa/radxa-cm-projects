@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "cm4_compatible",
+    "general_compute"
+  ],
+  "constraints": [],
+  "recommended_use_cases": [
+    "industrial",
+    "robotics"
+  ]
+}

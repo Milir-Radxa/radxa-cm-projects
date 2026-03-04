@@ -1,0 +1,13 @@
+{
+  "tags": [
+    "sodimm",
+    "general_compute"
+  ],
+  "constraints": [
+    "shares_c200_project_assets"
+  ],
+  "recommended_use_cases": [
+    "industrial",
+    "robotics"
+  ]
+}

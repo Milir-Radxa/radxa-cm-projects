@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "sodimm",
+    "edge_ai"
+  ],
+  "constraints": [],
+  "recommended_use_cases": [
+    "edge_ai",
+    "nas"
+  ]
+}

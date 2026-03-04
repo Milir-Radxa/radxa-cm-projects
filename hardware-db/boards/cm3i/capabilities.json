@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "cm4_compatible",
+    "industrial"
+  ],
+  "constraints": [],
+  "recommended_use_cases": [
+    "industrial",
+    "edge_ai"
+  ]
+}

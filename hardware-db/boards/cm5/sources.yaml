@@ -1,0 +1,7 @@
+data_origin: human_entered
+references:
+  - README.md
+  - cm5/README.md
+  - cm5/radxa-cm5-io-board/README.md
+  - https://rock.sh/cm5
+last_verified_date: 2026-03-04

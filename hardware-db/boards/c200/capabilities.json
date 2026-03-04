@@ -1,0 +1,13 @@
+{
+  "tags": [
+    "orin",
+    "edge_ai"
+  ],
+  "constraints": [
+    "nx4_and_orin_share_c200_project_entry"
+  ],
+  "recommended_use_cases": [
+    "edge_ai",
+    "robotics"
+  ]
+}
