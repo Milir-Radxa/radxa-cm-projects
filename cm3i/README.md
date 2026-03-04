@@ -1,3 +1,18 @@
+<!-- AGENT_SPEC_START -->
+Spec source: ../tools/out/cm3i.md
+
+### Agent Spec Summary
+- Board: Radxa CM3I (cm3i)
+- SoC: RK3568(J)
+- Category: cm
+- Form factor: raspberrypi_cm4_compatible
+- Interfaces total: 0
+- Interface breakdown: none
+- Capability tags: cm4_compatible, industrial
+- Power inputs: unknown unknown via unknown
+- Data path: hardware-db/boards/cm3i
+<!-- AGENT_SPEC_END -->
+
 ## Apply for Radxa CM3I
 
 Radxa is donating some free [Radxa CM3I](https://rock.sh/cm3i) to open source hardware projects.

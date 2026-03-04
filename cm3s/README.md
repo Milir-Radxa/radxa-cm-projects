@@ -1,3 +1,18 @@
+<!-- AGENT_SPEC_START -->
+Spec source: ../tools/out/cm3s.md
+
+### Agent Spec Summary
+- Board: Radxa CM3S (cm3s)
+- SoC: RK3566
+- Category: cm
+- Form factor: sodimm
+- Interfaces total: 0
+- Interface breakdown: none
+- Capability tags: sodimm, general_compute
+- Power inputs: unknown unknown via unknown
+- Data path: hardware-db/boards/cm3s
+<!-- AGENT_SPEC_END -->
+
 ## Apply for Radxa CM3S
 
 Radxa is donating some free [Radxa CM3S](https://rock.sh/cm3s) to open source hardware projects.

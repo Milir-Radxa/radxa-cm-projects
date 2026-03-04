@@ -1,0 +1,10 @@
+### Agent Spec Summary
+- Board: Radxa CM5 (cm5)
+- SoC: RK3588S
+- Category: cm
+- Form factor: raspberrypi_cm4_compatible
+- Interfaces total: 0
+- Interface breakdown: none
+- Capability tags: cm4_compatible, edge_ai
+- Power inputs: unknown unknown via unknown
+- Data path: hardware-db/boards/cm5

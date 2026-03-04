@@ -1,3 +1,18 @@
+<!-- AGENT_SPEC_START -->
+Spec source: ../tools/out/nx5.md
+
+### Agent Spec Summary
+- Board: Radxa NX5 (nx5)
+- SoC: RK3588S
+- Category: nx
+- Form factor: sodimm
+- Interfaces total: 0
+- Interface breakdown: none
+- Capability tags: sodimm, edge_ai
+- Power inputs: unknown unknown via unknown
+- Data path: hardware-db/boards/nx5
+<!-- AGENT_SPEC_END -->
+
 ## Apply for Radxa NX5
 
 Radxa is donating some free [Radxa NX5](https://rock.sh/nx5) to open source hardware projects.
