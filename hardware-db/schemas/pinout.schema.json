@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://radxa.com/schemas/hardware-db/pinout.schema.json",
+  "title": "Hardware DB Pinout",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "pins"
+  ],
+  "properties": {
+    "pins": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "number",
+          "name",
+          "functions",
+          "voltage",
+          "domain"
+        ],
+        "properties": {
+          "number": {
+            "type": [
+              "string",
+              "integer"
+            ]
+          },
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "functions": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "voltage": {
+            "type": "string",
+            "minLength": 1
+          },
+          "domain": {
+            "type": "string",
+            "minLength": 1
+          },
+          "notes": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

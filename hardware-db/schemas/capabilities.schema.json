@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://radxa.com/schemas/hardware-db/capabilities.schema.json",
+  "title": "Hardware DB Capabilities",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "tags",
+    "constraints",
+    "recommended_use_cases"
+  ],
+  "properties": {
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "constraints": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "recommended_use_cases": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://radxa.com/schemas/hardware-db/interfaces.schema.json",
+  "title": "Hardware DB Interfaces",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "interfaces"
+  ],
+  "properties": {
+    "interfaces": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "type"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "pcie",
+              "usb",
+              "eth",
+              "mipi_csi",
+              "mipi_dsi",
+              "i2c",
+              "spi",
+              "uart",
+              "can",
+              "sata",
+              "hdmi",
+              "dp",
+              "edp",
+              "audio",
+              "gpio",
+              "sdmmc"
+            ]
+          },
+          "version": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "lanes_or_width": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "connector": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "notes": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

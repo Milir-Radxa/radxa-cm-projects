@@ -1,0 +1,84 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://radxa.com/schemas/hardware-db/power.schema.json",
+  "title": "Hardware DB Power",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "inputs"
+  ],
+  "properties": {
+    "inputs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "type",
+          "voltage_range",
+          "connector"
+        ],
+        "properties": {
+          "type": {
+            "type": "string",
+            "minLength": 1
+          },
+          "voltage_range": {
+            "type": "string",
+            "minLength": 1
+          },
+          "connector": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "typical_power_w": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "max_power_w": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "poe": {
+      "oneOf": [
+        {
+          "type": "boolean"
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "supported"
+          ],
+          "properties": {
+            "supported": {
+              "type": "boolean"
+            },
+            "standard": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "max_power_w": {
+              "type": [
+                "number",
+                "null"
+              ]
+            }
+          }
+        },
+        {
+          "type": "null"
+        }
+      ]
+    }
+  }
+}
