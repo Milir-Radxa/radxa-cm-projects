@@ -1,7 +1,8 @@
-data_origin: human_entered
+data_origin: extracted
 references:
   - README.md
   - cm4/README.md
   - cm4/radxa-cm4-io-board/README.md
   - https://rock.sh/cm4
-last_verified_date: 2026-03-04
+  - cm4/radxa-cm4-io-board/radxa_cm4_io_schematic_v1.10.pdf
+last_verified_date: 2026-03-05

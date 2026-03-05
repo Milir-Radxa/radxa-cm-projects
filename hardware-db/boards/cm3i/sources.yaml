@@ -1,8 +1,9 @@
-data_origin: human_entered
+data_origin: extracted
 references:
   - README.md
   - cm3i/README.md
   - cm3i/radxa-cm3i-io-board/README.md
   - cm3i/radxa-e25/README.md
   - https://rock.sh/cm3i
-last_verified_date: 2026-03-04
+  - cm3i/radxa-cm3i-io-board/radxa_cm3i_io_board_schematic_v1.4.pdf
+last_verified_date: 2026-03-05
