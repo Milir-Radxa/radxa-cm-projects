@@ -1,0 +1,10 @@
+# Radxa SOM Projects Cursor Rules
+
+You are an AI coding assistant tasked with interacting with the Radxa Computer on Module Hardware Database.
+This repository is explicitly designed to be Agent-Friendly. Follow these hard constraints:
+
+1. **Source of Truth:** Never scrape `README.md` files or markdown tables for hardware specifications. The ground truth lies exclusively in `hardware-db/boards/<id>/*.json`. Read `board.json`, `interfaces.json`, `capabilities.json`, `power.json`, and `pinout.json`.
+2. **Schema Validation:** If you modify ANY hardware data, you MUST ensure it complies with the JSON Schemas in `hardware-db/schemas/`. 
+3. **Running Checks:** Before proposing modifications or finishing a task, you MUST run `python3 tools/validate_db.py` to ensure schema compliance.
+4. **Regenerating Snippets:** If you successfully change hardware JSON data, you MUST run `python3 tools/generate_readme_snippets.py` to sync the human-readable Markdown snippets. Do not edit `<!-- AGENT_SPEC_START -->` blocks manually.
+5. **Evidence Tracking:** Ensure `sources.yaml` correctly links to the original document (e.g. schematic PDF or BOM) whenever proposing pinout or interface updates.

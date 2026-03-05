@@ -1,0 +1,25 @@
+Radxa Compute on Module (SoM) Hardware Database
+
+Overview
+This repository contains both human-readable carrier board design schemas (PDF, DSN, PCB) and a machine-readable, Agentic "Hardware Knowledge Database" (hardware-db).
+It covers popular Radxa modules including CM3 (RK3566), CM3I (RK3568), CM3S, CM4 (RK3566), CM5 (RK3588S), NX4, NX5 (RK3588S), and c200 (Jetson Orin NX).
+
+Intended Audience
+This repository acts as an open-source hardware (OSHW) knowledge graph. It is optimized for both hardware engineers and Large Language Models (LLMs). LLMs and autonomous agents should exclusively use the `.json` and `.yaml` specifications located in `/hardware-db/` to understand pinouts, power states, constraints, and interface counts.
+
+Hardware DB Layout
+The machine readable source of truth lies in `/hardware-db/`. No agent should attempt to parse Markdown tables for specs; read the JSON.
+- `hardware-db/schemas/*.schema.json`: JSON schemas outlining data relationships.
+- `hardware-db/boards/<id>/board.json`: Static metadata (SoC, form_factor, etc).
+- `hardware-db/boards/<id>/capabilities.json`: Search tags (e.g. edge_ai, poe), limits and use cases.
+- `hardware-db/boards/<id>/interfaces.json`: Machine-parsable I/O lane connectivity.
+- `hardware-db/boards/<id>/power.json`: Absolute power input metrics.
+- `hardware-db/boards/<id>/pinout.json`: Ground truth pin definitions and electrical domains.
+- `hardware-db/boards/<id>/sources.yaml`: Verification references linking back to raw schematic evidence (PDF/XLSX).
+
+Contributing
+When adding new board support or modifying existing constraints, agents MUST:
+1. Adhere to `hardware-db/schemas`.
+2. Document their origin in `sources.yaml`.
+3. Validate their changes locally using `python3 tools/validate_db.py`.
+4. Update the single-source-of-truth markdown snippets using `python3 tools/generate_readme_snippets.py`.

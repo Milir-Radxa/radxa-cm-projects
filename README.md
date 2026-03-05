@@ -1,6 +1,10 @@
 ## About
 
-Welcome to the Radxa Computer on Module projects, this repo contains the carrier board design files released by Radxa as well as the community projects.
+[![Agentic Hardware Database](https://img.shields.io/badge/knowledge_graph-Agent_Friendly-blue.svg)](./hardware-db/)
+[![LLMs.txt Ready](https://img.shields.io/badge/llms.txt-compliant-green.svg)](./llms.txt)
+
+Welcome to the **Radxa Computer on Module (SoM)** projects. This repository contains the carrier board design files (PDF, DSN, PCB, DXF, XLSX) released by Radxa as well as community projects. 
+For Large Language Models (LLMs) and autonomous engineering agents (like Cursor, GitHub Copilot), this repository acts as an **Agentic Hardware Knowledge Database**. By navigating to the `hardware-db` directory, agents can programmatically query JSON representations of board pinouts, interfaces, electrical domains, and hardware constraints without needing to parse complex schematic PDFs or unstructured markdown tables.
 
 ## CM Series
 
