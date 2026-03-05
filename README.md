@@ -57,3 +57,7 @@ The content in this block is generated from `hardware-db/boards/<id>/*.json` thr
 - Fill `interfaces.json`, `power.json`, and `capabilities.json` incrementally
 - Add optional `pinout.json` when verifiable pin data is available
 - Keep old docs and binary assets untouched during migration
+
+### Contributing
+
+If you'd like to help us add more SOM modules to the database, please check out our [Contribution Checklist](./CONTRIBUTING.md) to understand how to comply with schemas and install the mandated local `pre-commit` git hooks!

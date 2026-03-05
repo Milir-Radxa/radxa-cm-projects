@@ -1,0 +1,18 @@
+repos:
+-   repo: local
+    hooks:
+    -   id: validate-db
+        name: Validate Hardware DB Schema
+        entry: python tools/validate_db.py
+        language: system
+        pass_filenames: false
+        always_run: true
+        description: Runs JSON schema validation for all boards in hardware-db.
+
+    -   id: check-readme-snippets
+        name: Check README Snippets
+        entry: python tools/generate_readme_snippets.py --check
+        language: system
+        pass_filenames: false
+        always_run: true
+        description: Ensures all hardware snippet specifications in README files are up to date.
