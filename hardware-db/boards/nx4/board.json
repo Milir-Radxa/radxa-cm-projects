@@ -1,0 +1,15 @@
+{
+  "id": "nx4",
+  "name": "Radxa NX4",
+  "category": "nx",
+  "soc": "RK3557(J)",
+  "form_factor": "sodimm",
+  "revision": null,
+  "links": [
+    {
+      "label": "product",
+      "url": "https://rock.sh/nx4"
+    }
+  ],
+  "maintained_by": "radxa"
+}

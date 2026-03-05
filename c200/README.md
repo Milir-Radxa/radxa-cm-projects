@@ -1,4 +1,18 @@
 ## Apply for Radxa C200
+<!-- AGENT_SPEC_START -->
+Spec source: ../tools/out/c200.md
+
+### Agent Spec Summary
+- Board: Radxa C200 (c200)
+- SoC: NVIDIA Jetson Orin Nano or Orin NX
+- Category: orin
+- Form factor: sodimm
+- Interfaces total: 0
+- Interface breakdown: none
+- Capability tags: orin, edge_ai
+- Power inputs: unknown unknown via unknown
+- Data path: hardware-db/boards/c200
+<!-- AGENT_SPEC_END -->
 
 Radxa is donating some free [Radxa C200](https://radxa.com/c200) to open source hardware projects.
 

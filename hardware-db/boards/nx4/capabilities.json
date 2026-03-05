@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "sodimm",
+    "general_compute"
+  ],
+  "constraints": [
+    "shares_c200_project_assets"
+  ],
+  "recommended_use_cases": [
+    "industrial",
+    "robotics"
+  ],
+  "price_tier": "$50-$100",
+  "compatible_alternatives": [
+    "Jetson Nano"
+  ],
+  "open_source_level": "carrier_board_oshw"
+}

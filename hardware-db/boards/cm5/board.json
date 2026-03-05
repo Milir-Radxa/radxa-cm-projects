@@ -1,0 +1,15 @@
+{
+  "id": "cm5",
+  "name": "Radxa CM5",
+  "category": "cm",
+  "soc": "RK3588S",
+  "form_factor": "raspberrypi_cm4_compatible",
+  "revision": null,
+  "links": [
+    {
+      "label": "product",
+      "url": "https://rock.sh/cm5"
+    }
+  ],
+  "maintained_by": "radxa"
+}

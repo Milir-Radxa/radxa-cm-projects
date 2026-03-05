@@ -1,3 +1,18 @@
+<!-- AGENT_SPEC_START -->
+Spec source: ../tools/out/nx4.md
+
+### Agent Spec Summary
+- Board: Radxa NX4 (nx4)
+- SoC: RK3557(J)
+- Category: nx
+- Form factor: sodimm
+- Interfaces total: 0
+- Interface breakdown: none
+- Capability tags: sodimm, general_compute
+- Power inputs: unknown unknown via unknown
+- Data path: hardware-db/boards/nx4
+<!-- AGENT_SPEC_END -->
+
 ## Apply for Radxa NX4
 
 Radxa is donating some free [Radxa NX4](https://radxa.com/nx4) to open source hardware projects.

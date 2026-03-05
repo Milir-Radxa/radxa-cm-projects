@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "cm4_compatible",
+    "edge_ai"
+  ],
+  "constraints": [],
+  "recommended_use_cases": [
+    "edge_ai",
+    "robotics"
+  ],
+  "price_tier": "$50-$100",
+  "compatible_alternatives": [
+    "Raspberry Pi CM4"
+  ],
+  "open_source_level": "carrier_board_oshw"
+}

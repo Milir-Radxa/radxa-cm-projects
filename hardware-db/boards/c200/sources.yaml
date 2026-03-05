@@ -1,0 +1,8 @@
+data_origin: extracted
+references:
+  - README.md
+  - c200/README.md
+  - c200/radxa-c200/README.md
+  - https://rock.sh/c200-orin
+  - c200/radxa-c200/radxa_c200_schematic_v1.11.pdf
+last_verified_date: 2026-03-05

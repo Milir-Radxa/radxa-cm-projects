@@ -1,0 +1,15 @@
+{
+  "id": "cm4",
+  "name": "Radxa CM4",
+  "category": "cm",
+  "soc": "RK3676(J)",
+  "form_factor": "raspberrypi_cm4_compatible",
+  "revision": null,
+  "links": [
+    {
+      "label": "product",
+      "url": "https://rock.sh/cm4"
+    }
+  ],
+  "maintained_by": "radxa"
+}

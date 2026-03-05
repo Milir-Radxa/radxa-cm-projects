@@ -1,0 +1,1804 @@
+{
+  "pins": [
+    {
+      "number": 1,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 2,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 3,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 4,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 5,
+      "name": "PIN_5",
+      "functions": [
+        "PIN_5"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 6,
+      "name": "PIN_6",
+      "functions": [
+        "PIN_6"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 7,
+      "name": "PIN_7",
+      "functions": [
+        "PIN_7"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 8,
+      "name": "PIN_8",
+      "functions": [
+        "PIN_8"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 9,
+      "name": "PIN_9",
+      "functions": [
+        "PIN_9"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 10,
+      "name": "PIN_10",
+      "functions": [
+        "PIN_10"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 11,
+      "name": "PIN_11",
+      "functions": [
+        "PIN_11"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 12,
+      "name": "PIN_12",
+      "functions": [
+        "PIN_12"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 13,
+      "name": "PIN_13",
+      "functions": [
+        "PIN_13"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 14,
+      "name": "PIN_14",
+      "functions": [
+        "PIN_14"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 15,
+      "name": "PIN_15",
+      "functions": [
+        "PIN_15"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 16,
+      "name": "PIN_16",
+      "functions": [
+        "PIN_16"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 17,
+      "name": "PIN_17",
+      "functions": [
+        "PIN_17"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 18,
+      "name": "PIN_18",
+      "functions": [
+        "PIN_18"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 19,
+      "name": "PIN_19",
+      "functions": [
+        "PIN_19"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 20,
+      "name": "PIN_20",
+      "functions": [
+        "PIN_20"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 21,
+      "name": "PIN_21",
+      "functions": [
+        "PIN_21"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 22,
+      "name": "PIN_22",
+      "functions": [
+        "PIN_22"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 23,
+      "name": "PIN_23",
+      "functions": [
+        "PIN_23"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 24,
+      "name": "PIN_24",
+      "functions": [
+        "PIN_24"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 25,
+      "name": "PIN_25",
+      "functions": [
+        "PIN_25"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 26,
+      "name": "PIN_26",
+      "functions": [
+        "PIN_26"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 27,
+      "name": "PIN_27",
+      "functions": [
+        "PIN_27"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 28,
+      "name": "PIN_28",
+      "functions": [
+        "PIN_28"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 29,
+      "name": "PIN_29",
+      "functions": [
+        "PIN_29"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 30,
+      "name": "PIN_30",
+      "functions": [
+        "PIN_30"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 31,
+      "name": "PIN_31",
+      "functions": [
+        "PIN_31"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 32,
+      "name": "PIN_32",
+      "functions": [
+        "PIN_32"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 33,
+      "name": "PIN_33",
+      "functions": [
+        "PIN_33"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 34,
+      "name": "PIN_34",
+      "functions": [
+        "PIN_34"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 35,
+      "name": "PIN_35",
+      "functions": [
+        "PIN_35"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 36,
+      "name": "PIN_36",
+      "functions": [
+        "PIN_36"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 37,
+      "name": "PIN_37",
+      "functions": [
+        "PIN_37"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 38,
+      "name": "PIN_38",
+      "functions": [
+        "PIN_38"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 39,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 40,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 41,
+      "name": "PIN_41",
+      "functions": [
+        "PIN_41"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 42,
+      "name": "PIN_42",
+      "functions": [
+        "PIN_42"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 43,
+      "name": "PIN_43",
+      "functions": [
+        "PIN_43"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 44,
+      "name": "PIN_44",
+      "functions": [
+        "PIN_44"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 45,
+      "name": "PIN_45",
+      "functions": [
+        "PIN_45"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 46,
+      "name": "PIN_46",
+      "functions": [
+        "PIN_46"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 47,
+      "name": "PIN_47",
+      "functions": [
+        "PIN_47"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 48,
+      "name": "PIN_48",
+      "functions": [
+        "PIN_48"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 49,
+      "name": "PIN_49",
+      "functions": [
+        "PIN_49"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 50,
+      "name": "PIN_50",
+      "functions": [
+        "PIN_50"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 51,
+      "name": "PIN_51",
+      "functions": [
+        "PIN_51"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 52,
+      "name": "PIN_52",
+      "functions": [
+        "PIN_52"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 53,
+      "name": "PIN_53",
+      "functions": [
+        "PIN_53"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 54,
+      "name": "PIN_54",
+      "functions": [
+        "PIN_54"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 55,
+      "name": "PIN_55",
+      "functions": [
+        "PIN_55"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 56,
+      "name": "PIN_56",
+      "functions": [
+        "PIN_56"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 57,
+      "name": "PIN_57",
+      "functions": [
+        "PIN_57"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 58,
+      "name": "PIN_58",
+      "functions": [
+        "PIN_58"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 59,
+      "name": "PIN_59",
+      "functions": [
+        "PIN_59"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 60,
+      "name": "PIN_60",
+      "functions": [
+        "PIN_60"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 61,
+      "name": "PIN_61",
+      "functions": [
+        "PIN_61"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 62,
+      "name": "PIN_62",
+      "functions": [
+        "PIN_62"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 63,
+      "name": "PIN_63",
+      "functions": [
+        "PIN_63"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 64,
+      "name": "PIN_64",
+      "functions": [
+        "PIN_64"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 65,
+      "name": "PIN_65",
+      "functions": [
+        "PIN_65"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 66,
+      "name": "PIN_66",
+      "functions": [
+        "PIN_66"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 67,
+      "name": "PIN_67",
+      "functions": [
+        "PIN_67"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 68,
+      "name": "PIN_68",
+      "functions": [
+        "PIN_68"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 69,
+      "name": "PIN_69",
+      "functions": [
+        "PIN_69"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 70,
+      "name": "PIN_70",
+      "functions": [
+        "PIN_70"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 71,
+      "name": "PIN_71",
+      "functions": [
+        "PIN_71"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 72,
+      "name": "PIN_72",
+      "functions": [
+        "PIN_72"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 73,
+      "name": "PIN_73",
+      "functions": [
+        "PIN_73"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 74,
+      "name": "PIN_74",
+      "functions": [
+        "PIN_74"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 75,
+      "name": "PIN_75",
+      "functions": [
+        "PIN_75"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 76,
+      "name": "PIN_76",
+      "functions": [
+        "PIN_76"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 77,
+      "name": "PIN_77",
+      "functions": [
+        "PIN_77"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 78,
+      "name": "PIN_78",
+      "functions": [
+        "PIN_78"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 79,
+      "name": "PIN_79",
+      "functions": [
+        "PIN_79"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 80,
+      "name": "PIN_80",
+      "functions": [
+        "PIN_80"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 81,
+      "name": "PIN_81",
+      "functions": [
+        "PIN_81"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 82,
+      "name": "PIN_82",
+      "functions": [
+        "PIN_82"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 83,
+      "name": "PIN_83",
+      "functions": [
+        "PIN_83"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 84,
+      "name": "PIN_84",
+      "functions": [
+        "PIN_84"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 85,
+      "name": "PIN_85",
+      "functions": [
+        "PIN_85"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 86,
+      "name": "PIN_86",
+      "functions": [
+        "PIN_86"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 87,
+      "name": "PIN_87",
+      "functions": [
+        "PIN_87"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 88,
+      "name": "PIN_88",
+      "functions": [
+        "PIN_88"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 89,
+      "name": "PIN_89",
+      "functions": [
+        "PIN_89"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 90,
+      "name": "PIN_90",
+      "functions": [
+        "PIN_90"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 91,
+      "name": "PIN_91",
+      "functions": [
+        "PIN_91"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 92,
+      "name": "PIN_92",
+      "functions": [
+        "PIN_92"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 93,
+      "name": "PIN_93",
+      "functions": [
+        "PIN_93"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 94,
+      "name": "PIN_94",
+      "functions": [
+        "PIN_94"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 95,
+      "name": "PIN_95",
+      "functions": [
+        "PIN_95"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 96,
+      "name": "PIN_96",
+      "functions": [
+        "PIN_96"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 97,
+      "name": "PIN_97",
+      "functions": [
+        "PIN_97"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 98,
+      "name": "PIN_98",
+      "functions": [
+        "PIN_98"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 99,
+      "name": "PIN_99",
+      "functions": [
+        "PIN_99"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 100,
+      "name": "PIN_100",
+      "functions": [
+        "PIN_100"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 101,
+      "name": "PIN_101",
+      "functions": [
+        "PIN_101"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 102,
+      "name": "PIN_102",
+      "functions": [
+        "PIN_102"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 103,
+      "name": "PIN_103",
+      "functions": [
+        "PIN_103"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 104,
+      "name": "PIN_104",
+      "functions": [
+        "PIN_104"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 105,
+      "name": "PIN_105",
+      "functions": [
+        "PIN_105"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 106,
+      "name": "PIN_106",
+      "functions": [
+        "PIN_106"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 107,
+      "name": "PIN_107",
+      "functions": [
+        "PIN_107"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 108,
+      "name": "PIN_108",
+      "functions": [
+        "PIN_108"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 109,
+      "name": "PIN_109",
+      "functions": [
+        "PIN_109"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 110,
+      "name": "PIN_110",
+      "functions": [
+        "PIN_110"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 111,
+      "name": "PIN_111",
+      "functions": [
+        "PIN_111"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 112,
+      "name": "PIN_112",
+      "functions": [
+        "PIN_112"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 113,
+      "name": "PIN_113",
+      "functions": [
+        "PIN_113"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 114,
+      "name": "PIN_114",
+      "functions": [
+        "PIN_114"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 115,
+      "name": "PIN_115",
+      "functions": [
+        "PIN_115"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 116,
+      "name": "PIN_116",
+      "functions": [
+        "PIN_116"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 117,
+      "name": "PIN_117",
+      "functions": [
+        "PIN_117"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 118,
+      "name": "PIN_118",
+      "functions": [
+        "PIN_118"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 119,
+      "name": "PIN_119",
+      "functions": [
+        "PIN_119"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 120,
+      "name": "PIN_120",
+      "functions": [
+        "PIN_120"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 121,
+      "name": "PIN_121",
+      "functions": [
+        "PIN_121"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 122,
+      "name": "PIN_122",
+      "functions": [
+        "PIN_122"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 123,
+      "name": "PIN_123",
+      "functions": [
+        "PIN_123"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 124,
+      "name": "PIN_124",
+      "functions": [
+        "PIN_124"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 125,
+      "name": "PIN_125",
+      "functions": [
+        "PIN_125"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 126,
+      "name": "PIN_126",
+      "functions": [
+        "PIN_126"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 127,
+      "name": "PIN_127",
+      "functions": [
+        "PIN_127"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 128,
+      "name": "PIN_128",
+      "functions": [
+        "PIN_128"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 129,
+      "name": "PIN_129",
+      "functions": [
+        "PIN_129"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 130,
+      "name": "PIN_130",
+      "functions": [
+        "PIN_130"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 131,
+      "name": "PIN_131",
+      "functions": [
+        "PIN_131"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 132,
+      "name": "PIN_132",
+      "functions": [
+        "PIN_132"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 133,
+      "name": "PIN_133",
+      "functions": [
+        "PIN_133"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 134,
+      "name": "PIN_134",
+      "functions": [
+        "PIN_134"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 135,
+      "name": "PIN_135",
+      "functions": [
+        "PIN_135"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 136,
+      "name": "PIN_136",
+      "functions": [
+        "PIN_136"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 137,
+      "name": "PIN_137",
+      "functions": [
+        "PIN_137"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 138,
+      "name": "PIN_138",
+      "functions": [
+        "PIN_138"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 139,
+      "name": "PIN_139",
+      "functions": [
+        "PIN_139"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 140,
+      "name": "PIN_140",
+      "functions": [
+        "PIN_140"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 141,
+      "name": "PIN_141",
+      "functions": [
+        "PIN_141"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 142,
+      "name": "PIN_142",
+      "functions": [
+        "PIN_142"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 143,
+      "name": "PIN_143",
+      "functions": [
+        "PIN_143"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 144,
+      "name": "PIN_144",
+      "functions": [
+        "PIN_144"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 145,
+      "name": "PIN_145",
+      "functions": [
+        "PIN_145"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 146,
+      "name": "PIN_146",
+      "functions": [
+        "PIN_146"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 147,
+      "name": "PIN_147",
+      "functions": [
+        "PIN_147"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 148,
+      "name": "PIN_148",
+      "functions": [
+        "PIN_148"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 149,
+      "name": "PIN_149",
+      "functions": [
+        "PIN_149"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 150,
+      "name": "PIN_150",
+      "functions": [
+        "PIN_150"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 151,
+      "name": "PIN_151",
+      "functions": [
+        "PIN_151"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 152,
+      "name": "PIN_152",
+      "functions": [
+        "PIN_152"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 153,
+      "name": "PIN_153",
+      "functions": [
+        "PIN_153"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 154,
+      "name": "PIN_154",
+      "functions": [
+        "PIN_154"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 155,
+      "name": "PIN_155",
+      "functions": [
+        "PIN_155"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 156,
+      "name": "PIN_156",
+      "functions": [
+        "PIN_156"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 157,
+      "name": "PIN_157",
+      "functions": [
+        "PIN_157"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 158,
+      "name": "PIN_158",
+      "functions": [
+        "PIN_158"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 159,
+      "name": "PIN_159",
+      "functions": [
+        "PIN_159"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 160,
+      "name": "PIN_160",
+      "functions": [
+        "PIN_160"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 161,
+      "name": "PIN_161",
+      "functions": [
+        "PIN_161"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 162,
+      "name": "PIN_162",
+      "functions": [
+        "PIN_162"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 163,
+      "name": "PIN_163",
+      "functions": [
+        "PIN_163"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 164,
+      "name": "PIN_164",
+      "functions": [
+        "PIN_164"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 165,
+      "name": "PIN_165",
+      "functions": [
+        "PIN_165"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 166,
+      "name": "PIN_166",
+      "functions": [
+        "PIN_166"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 167,
+      "name": "PIN_167",
+      "functions": [
+        "PIN_167"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 168,
+      "name": "PIN_168",
+      "functions": [
+        "PIN_168"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 169,
+      "name": "PIN_169",
+      "functions": [
+        "PIN_169"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 170,
+      "name": "PIN_170",
+      "functions": [
+        "PIN_170"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 171,
+      "name": "PIN_171",
+      "functions": [
+        "PIN_171"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 172,
+      "name": "PIN_172",
+      "functions": [
+        "PIN_172"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 173,
+      "name": "PIN_173",
+      "functions": [
+        "PIN_173"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 174,
+      "name": "PIN_174",
+      "functions": [
+        "PIN_174"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 175,
+      "name": "PIN_175",
+      "functions": [
+        "PIN_175"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 176,
+      "name": "PIN_176",
+      "functions": [
+        "PIN_176"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 177,
+      "name": "PIN_177",
+      "functions": [
+        "PIN_177"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 178,
+      "name": "PIN_178",
+      "functions": [
+        "PIN_178"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 179,
+      "name": "PIN_179",
+      "functions": [
+        "PIN_179"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 180,
+      "name": "PIN_180",
+      "functions": [
+        "PIN_180"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 181,
+      "name": "PIN_181",
+      "functions": [
+        "PIN_181"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 182,
+      "name": "PIN_182",
+      "functions": [
+        "PIN_182"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 183,
+      "name": "PIN_183",
+      "functions": [
+        "PIN_183"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 184,
+      "name": "PIN_184",
+      "functions": [
+        "PIN_184"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 185,
+      "name": "PIN_185",
+      "functions": [
+        "PIN_185"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 186,
+      "name": "PIN_186",
+      "functions": [
+        "PIN_186"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 187,
+      "name": "PIN_187",
+      "functions": [
+        "PIN_187"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 188,
+      "name": "PIN_188",
+      "functions": [
+        "PIN_188"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 189,
+      "name": "PIN_189",
+      "functions": [
+        "PIN_189"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 190,
+      "name": "PIN_190",
+      "functions": [
+        "PIN_190"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 191,
+      "name": "PIN_191",
+      "functions": [
+        "PIN_191"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 192,
+      "name": "PIN_192",
+      "functions": [
+        "PIN_192"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 193,
+      "name": "PIN_193",
+      "functions": [
+        "PIN_193"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 194,
+      "name": "PIN_194",
+      "functions": [
+        "PIN_194"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 195,
+      "name": "PIN_195",
+      "functions": [
+        "PIN_195"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 196,
+      "name": "PIN_196",
+      "functions": [
+        "PIN_196"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 197,
+      "name": "PIN_197",
+      "functions": [
+        "PIN_197"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 198,
+      "name": "PIN_198",
+      "functions": [
+        "PIN_198"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 199,
+      "name": "PIN_199",
+      "functions": [
+        "PIN_199"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 200,
+      "name": "PIN_200",
+      "functions": [
+        "PIN_200"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    }
+  ]
+}

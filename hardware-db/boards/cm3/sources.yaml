@@ -1,0 +1,8 @@
+data_origin: extracted
+references:
+  - README.md
+  - cm3/README.md
+  - cm3/radxa-cm3-io-board/README.md
+  - https://rock.sh/cm3
+  - cm3/radxa-cm3-io-board/radxa_cm3_io_board_v1330_schematic.pdf
+last_verified_date: 2026-03-05

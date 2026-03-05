@@ -1,0 +1,15 @@
+{
+  "id": "nx5",
+  "name": "Radxa NX5",
+  "category": "nx",
+  "soc": "RK3588S",
+  "form_factor": "sodimm",
+  "revision": null,
+  "links": [
+    {
+      "label": "product",
+      "url": "https://rock.sh/nx5"
+    }
+  ],
+  "maintained_by": "radxa"
+}

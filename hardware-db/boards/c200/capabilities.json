@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "orin",
+    "edge_ai"
+  ],
+  "constraints": [
+    "nx4_and_orin_share_c200_project_entry"
+  ],
+  "recommended_use_cases": [
+    "edge_ai",
+    "robotics"
+  ],
+  "price_tier": "$200+",
+  "compatible_alternatives": [
+    "Jetson Xavier NX"
+  ],
+  "open_source_level": "closed"
+}

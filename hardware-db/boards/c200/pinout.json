@@ -1,0 +1,2344 @@
+{
+  "pins": [
+    {
+      "number": 1,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 2,
+      "name": "3P3V",
+      "functions": [
+        "3P3V"
+      ],
+      "domain": "power",
+      "voltage": "3.3V"
+    },
+    {
+      "number": 3,
+      "name": "USB_DP",
+      "functions": [
+        "USB_DP"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 4,
+      "name": "3P3V",
+      "functions": [
+        "3P3V"
+      ],
+      "domain": "power",
+      "voltage": "3.3V"
+    },
+    {
+      "number": 5,
+      "name": "USB_DM",
+      "functions": [
+        "USB_DM"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 6,
+      "name": "LED1#",
+      "functions": [
+        "LED1#"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 7,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 8,
+      "name": "PCM_CLK/12S SCK",
+      "functions": [
+        "PCM_CLK/12S SCK"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 9,
+      "name": "SDIO CLK",
+      "functions": [
+        "SDIO CLK"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 10,
+      "name": "PCM_SYNC/12S WS",
+      "functions": [
+        "PCM_SYNC/12S WS"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 11,
+      "name": "SDIO CMD",
+      "functions": [
+        "SDIO CMD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 12,
+      "name": "AP_PCM_IN/12S SD_IN",
+      "functions": [
+        "AP_PCM_IN/12S SD_IN"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 13,
+      "name": "SDIO DATA0",
+      "functions": [
+        "SDIO DATA0"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 14,
+      "name": "AP_PCM_OUT/12S SD_OUT",
+      "functions": [
+        "AP_PCM_OUT/12S SD_OUT"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 15,
+      "name": "SDIO DATA1",
+      "functions": [
+        "SDIO DATA1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 16,
+      "name": "LED2#",
+      "functions": [
+        "LED2#"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 17,
+      "name": "SDIO DATA2",
+      "functions": [
+        "SDIO DATA2"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 18,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 19,
+      "name": "SDIO DATA3",
+      "functions": [
+        "SDIO DATA3"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 20,
+      "name": "UART_WAKE#",
+      "functions": [
+        "UART_WAKE#"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 21,
+      "name": "SDIO WAKE#",
+      "functions": [
+        "SDIO WAKE#"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 22,
+      "name": "AP_UART_RXD",
+      "functions": [
+        "AP_UART_RXD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 23,
+      "name": "SDIO RESET#",
+      "functions": [
+        "SDIO RESET#"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 24,
+      "name": "PETp2",
+      "functions": [
+        "PETp2"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 25,
+      "name": "N/C_26",
+      "functions": [
+        "N/C_26"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 26,
+      "name": "GND_27",
+      "functions": [
+        "GND_27"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 27,
+      "name": "N/C_28",
+      "functions": [
+        "N/C_28"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 28,
+      "name": "PERn1",
+      "functions": [
+        "PERn1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 29,
+      "name": "N/C_30",
+      "functions": [
+        "N/C_30"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 30,
+      "name": "PERp1",
+      "functions": [
+        "PERp1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 31,
+      "name": "N/C_32",
+      "functions": [
+        "N/C_32"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 32,
+      "name": "AP_UART_TXD",
+      "functions": [
+        "AP_UART_TXD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 33,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 34,
+      "name": "AP_UART_CTS",
+      "functions": [
+        "AP_UART_CTS"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 35,
+      "name": "AP_PETP0",
+      "functions": [
+        "AP_PETP0"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 36,
+      "name": "AP_UART_RTS",
+      "functions": [
+        "AP_UART_RTS"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 37,
+      "name": "AP_PETN0",
+      "functions": [
+        "AP_PETN0"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 38,
+      "name": "VENDOR_DEFINED",
+      "functions": [
+        "VENDOR_DEFINED"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 39,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 40,
+      "name": "VENDOR_DEFINED",
+      "functions": [
+        "VENDOR_DEFINED"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 41,
+      "name": "AP_PERP0",
+      "functions": [
+        "AP_PERP0"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 42,
+      "name": "VENDOR_DEFINED",
+      "functions": [
+        "VENDOR_DEFINED"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 43,
+      "name": "AP_PERN0",
+      "functions": [
+        "AP_PERN0"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 44,
+      "name": "COEX3",
+      "functions": [
+        "COEX3"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 45,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 46,
+      "name": "COEX2",
+      "functions": [
+        "COEX2"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 47,
+      "name": "REFCLKP0",
+      "functions": [
+        "REFCLKP0"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 48,
+      "name": "COEX1",
+      "functions": [
+        "COEX1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 49,
+      "name": "REFCLKN0",
+      "functions": [
+        "REFCLKN0"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 50,
+      "name": "SUSCLK_32KHZ",
+      "functions": [
+        "SUSCLK_32KHZ"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 51,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 52,
+      "name": "PERST0#",
+      "functions": [
+        "PERST0#"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 53,
+      "name": "CLKREQ0#",
+      "functions": [
+        "CLKREQ0#"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 54,
+      "name": "W_DISABLE2#",
+      "functions": [
+        "W_DISABLE2#"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 55,
+      "name": "PEWAKE0#",
+      "functions": [
+        "PEWAKE0#"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 56,
+      "name": "W_DISABLE1#",
+      "functions": [
+        "W_DISABLE1#"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 57,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 58,
+      "name": "I2C_DATA",
+      "functions": [
+        "I2C_DATA"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 59,
+      "name": "AP_RESERVED/PETP1",
+      "functions": [
+        "AP_RESERVED/PETP1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 60,
+      "name": "I2C_CLK",
+      "functions": [
+        "I2C_CLK"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 61,
+      "name": "AP_RESERVED/PETN1",
+      "functions": [
+        "AP_RESERVED/PETN1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 62,
+      "name": "ALERT#",
+      "functions": [
+        "ALERT#"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 63,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 64,
+      "name": "RESERVED",
+      "functions": [
+        "RESERVED"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 65,
+      "name": "AP_RESERVED/PERP1",
+      "functions": [
+        "AP_RESERVED/PERP1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 66,
+      "name": "UIM_SWP/PERST1#",
+      "functions": [
+        "UIM_SWP/PERST1#"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 67,
+      "name": "AP_RESERVED/PERN1",
+      "functions": [
+        "AP_RESERVED/PERN1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 68,
+      "name": "UIM_POWER_SNK/CLKREQ1#",
+      "functions": [
+        "UIM_POWER_SNK/CLKREQ1#"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 69,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 70,
+      "name": "UIM_POWER_SRC/GPIO1/PEWAKE1#",
+      "functions": [
+        "UIM_POWER_SRC/GPIO1/PEWAKE1#"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 71,
+      "name": "RESERVED/REFCLKP1",
+      "functions": [
+        "RESERVED/REFCLKP1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 72,
+      "name": "3P3V",
+      "functions": [
+        "3P3V"
+      ],
+      "domain": "power",
+      "voltage": "3.3V"
+    },
+    {
+      "number": 73,
+      "name": "RESERVED/REFCLKN1",
+      "functions": [
+        "RESERVED/REFCLKN1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 74,
+      "name": "3P3V",
+      "functions": [
+        "3P3V"
+      ],
+      "domain": "power",
+      "voltage": "3.3V"
+    },
+    {
+      "number": 75,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 76,
+      "name": "MNT1",
+      "functions": [
+        "MNT1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 77,
+      "name": "MNT2",
+      "functions": [
+        "MNT2"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 78,
+      "name": "DSI_CLK",
+      "functions": [
+        "DSI_CLK"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 79,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 80,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 81,
+      "name": "DP1_TXD3 (HDMI_TXC)",
+      "functions": [
+        "DP1_TXD3 (HDMI_TXC)"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 82,
+      "name": "DSI_D1",
+      "functions": [
+        "DSI_D1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 83,
+      "name": "DP1_TXD3 (HDMI_TXC)",
+      "functions": [
+        "DP1_TXD3 (HDMI_TXC)"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 84,
+      "name": "DSI_D1",
+      "functions": [
+        "DSI_D1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 85,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 86,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 87,
+      "name": "GPIO00 (USB_VBUS_EN0)",
+      "functions": [
+        "GPIO00 (USB_VBUS_EN0)"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 88,
+      "name": "DP0_HPD",
+      "functions": [
+        "DP0_HPD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 89,
+      "name": "SPI0_MOSI",
+      "functions": [
+        "SPI0_MOSI"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 90,
+      "name": "DP0_AUX",
+      "functions": [
+        "DP0_AUX"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 91,
+      "name": "SPI0_SCK",
+      "functions": [
+        "SPI0_SCK"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 92,
+      "name": "DP0_AUX",
+      "functions": [
+        "DP0_AUX"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 93,
+      "name": "SPI0_MISO",
+      "functions": [
+        "SPI0_MISO"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 94,
+      "name": "HDMI_CEC",
+      "functions": [
+        "HDMI_CEC"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 95,
+      "name": "SPI0_CS0",
+      "functions": [
+        "SPI0_CS0"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 96,
+      "name": "DP1_HPD (HDMI_HPD)",
+      "functions": [
+        "DP1_HPD (HDMI_HPD)"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 97,
+      "name": "SPI0_CS1",
+      "functions": [
+        "SPI0_CS1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 98,
+      "name": "DP1_AUX_N (HDMI_DDC_SDA)",
+      "functions": [
+        "DP1_AUX_N (HDMI_DDC_SDA)"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 99,
+      "name": "UART0_TXD",
+      "functions": [
+        "UART0_TXD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 100,
+      "name": "DP1_AUX_P (HDMI_DDC_SCL)",
+      "functions": [
+        "DP1_AUX_P (HDMI_DDC_SCL)"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 101,
+      "name": "UART0_RXD",
+      "functions": [
+        "UART0_RXD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 102,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 103,
+      "name": "UART0_RTS",
+      "functions": [
+        "UART0_RTS"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 104,
+      "name": "SPI1_MOSI",
+      "functions": [
+        "SPI1_MOSI"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 105,
+      "name": "UART0_CTS",
+      "functions": [
+        "UART0_CTS"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 106,
+      "name": "SPI1_SCK",
+      "functions": [
+        "SPI1_SCK"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 107,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 108,
+      "name": "SPI1_MISO",
+      "functions": [
+        "SPI1_MISO"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 109,
+      "name": "USB0_D",
+      "functions": [
+        "USB0_D"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 110,
+      "name": "SPI1_CS0",
+      "functions": [
+        "SPI1_CS0"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 111,
+      "name": "USB0_D",
+      "functions": [
+        "USB0_D"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 112,
+      "name": "SPI1_CS1",
+      "functions": [
+        "SPI1_CS1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 113,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 114,
+      "name": "CAM0_PWDN",
+      "functions": [
+        "CAM0_PWDN"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 115,
+      "name": "USB1_D",
+      "functions": [
+        "USB1_D"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 116,
+      "name": "CAM0_MCLK",
+      "functions": [
+        "CAM0_MCLK"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 117,
+      "name": "USB1_D",
+      "functions": [
+        "USB1_D"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 118,
+      "name": "GPIO01 (CLK)",
+      "functions": [
+        "GPIO01 (CLK)"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 119,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 120,
+      "name": "CAM1_PWDN",
+      "functions": [
+        "CAM1_PWDN"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 121,
+      "name": "USB2_D",
+      "functions": [
+        "USB2_D"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 122,
+      "name": "CAM1_MCLK",
+      "functions": [
+        "CAM1_MCLK"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 123,
+      "name": "USB2_D",
+      "functions": [
+        "USB2_D"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 124,
+      "name": "GPIO02",
+      "functions": [
+        "GPIO02"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 125,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 126,
+      "name": "GPIO03",
+      "functions": [
+        "GPIO03"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 127,
+      "name": "GPIO04",
+      "functions": [
+        "GPIO04"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 128,
+      "name": "GPIO05",
+      "functions": [
+        "GPIO05"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 129,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 130,
+      "name": "GPIO06",
+      "functions": [
+        "GPIO06"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 131,
+      "name": "PCIE0_RX0",
+      "functions": [
+        "PCIE0_RX0"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 132,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 133,
+      "name": "PCIE0_RX0",
+      "functions": [
+        "PCIE0_RX0"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 134,
+      "name": "PCIE0_TX0",
+      "functions": [
+        "PCIE0_TX0"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 135,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 136,
+      "name": "PCIE0_TX0",
+      "functions": [
+        "PCIE0_TX0"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 137,
+      "name": "PCIE0_RX1",
+      "functions": [
+        "PCIE0_RX1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 138,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 139,
+      "name": "PCIE0_RX1",
+      "functions": [
+        "PCIE0_RX1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 140,
+      "name": "PCIE0_TX1",
+      "functions": [
+        "PCIE0_TX1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 141,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 142,
+      "name": "PCIE0_TX1",
+      "functions": [
+        "PCIE0_TX1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 143,
+      "name": "(CAN_RX) RSVD",
+      "functions": [
+        "(CAN_RX) RSVD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 144,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 145,
+      "name": "(CAN_TX) RSVD",
+      "functions": [
+        "(CAN_TX) RSVD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 146,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 147,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 148,
+      "name": "PCIE0_TX2",
+      "functions": [
+        "PCIE0_TX2"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 149,
+      "name": "PCIE0_RX2",
+      "functions": [
+        "PCIE0_RX2"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 150,
+      "name": "PCIE0_TX2",
+      "functions": [
+        "PCIE0_TX2"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 151,
+      "name": "PCIE0_RX2",
+      "functions": [
+        "PCIE0_RX2"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 152,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 153,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 154,
+      "name": "PCIE0_TX3",
+      "functions": [
+        "PCIE0_TX3"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 155,
+      "name": "PCIE0_RX3",
+      "functions": [
+        "PCIE0_RX3"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 156,
+      "name": "PCIE0_TX3",
+      "functions": [
+        "PCIE0_TX3"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 157,
+      "name": "PCIE0_RX3",
+      "functions": [
+        "PCIE0_RX3"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 158,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 159,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 160,
+      "name": "PCIE0_CLK",
+      "functions": [
+        "PCIE0_CLK"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 161,
+      "name": "USBSS_RX",
+      "functions": [
+        "USBSS_RX"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 162,
+      "name": "PCIE0_CLK",
+      "functions": [
+        "PCIE0_CLK"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 163,
+      "name": "USBSS_RX",
+      "functions": [
+        "USBSS_RX"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 164,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 165,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 166,
+      "name": "USBSS_TX",
+      "functions": [
+        "USBSS_TX"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 167,
+      "name": "(PCIE1_RX0) RSVD",
+      "functions": [
+        "(PCIE1_RX0) RSVD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 168,
+      "name": "USBSS_TX",
+      "functions": [
+        "USBSS_TX"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 169,
+      "name": "(PCIE1_RX0) RSVD",
+      "functions": [
+        "(PCIE1_RX0) RSVD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 170,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 171,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 172,
+      "name": "(PCIE1_TX0) RSVD",
+      "functions": [
+        "(PCIE1_TX0) RSVD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 173,
+      "name": "(PCIE1_CLK) RSVD",
+      "functions": [
+        "(PCIE1_CLK) RSVD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 174,
+      "name": "(PCIE1_TX0) RSVD",
+      "functions": [
+        "(PCIE1_TX0) RSVD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 175,
+      "name": "(PCIE1_CLK) RSVD",
+      "functions": [
+        "(PCIE1_CLK) RSVD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 176,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 177,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 178,
+      "name": "MOD_SLEEP",
+      "functions": [
+        "MOD_SLEEP"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 179,
+      "name": "PCIE_WAKE",
+      "functions": [
+        "PCIE_WAKE"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 180,
+      "name": "PCIE0_CLKREQ",
+      "functions": [
+        "PCIE0_CLKREQ"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 181,
+      "name": "PCIE0_RST",
+      "functions": [
+        "PCIE0_RST"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 182,
+      "name": "(PCIE1_CLKREQ) RSVD",
+      "functions": [
+        "(PCIE1_CLKREQ) RSVD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 183,
+      "name": "(PCIE1_RST) RSVD",
+      "functions": [
+        "(PCIE1_RST) RSVD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 184,
+      "name": "GBE_MDI0",
+      "functions": [
+        "GBE_MDI0"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 185,
+      "name": "I2C0_SCL",
+      "functions": [
+        "I2C0_SCL"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 186,
+      "name": "GBE_MDI0",
+      "functions": [
+        "GBE_MDI0"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 187,
+      "name": "I2C0_SDA",
+      "functions": [
+        "I2C0_SDA"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 188,
+      "name": "GBE_LED_LINK",
+      "functions": [
+        "GBE_LED_LINK"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 189,
+      "name": "I2C1_SCL",
+      "functions": [
+        "I2C1_SCL"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 190,
+      "name": "GBE_MDI1",
+      "functions": [
+        "GBE_MDI1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 191,
+      "name": "I2C1_SDA",
+      "functions": [
+        "I2C1_SDA"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 192,
+      "name": "GBE_MDI1",
+      "functions": [
+        "GBE_MDI1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 193,
+      "name": "I2S0_DOUT",
+      "functions": [
+        "I2S0_DOUT"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 194,
+      "name": "GBE_LED_ACT",
+      "functions": [
+        "GBE_LED_ACT"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 195,
+      "name": "I2S0_DIN",
+      "functions": [
+        "I2S0_DIN"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 196,
+      "name": "GBE_MDI2",
+      "functions": [
+        "GBE_MDI2"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 197,
+      "name": "I2S0_FS",
+      "functions": [
+        "I2S0_FS"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 198,
+      "name": "GBE_MDI2",
+      "functions": [
+        "GBE_MDI2"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 199,
+      "name": "I2S0_SCLK",
+      "functions": [
+        "I2S0_SCLK"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 200,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 201,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 202,
+      "name": "GBE_MDI3",
+      "functions": [
+        "GBE_MDI3"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 203,
+      "name": "UART1_TXD",
+      "functions": [
+        "UART1_TXD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 204,
+      "name": "GBE_MDI3",
+      "functions": [
+        "GBE_MDI3"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 205,
+      "name": "UART1_RXD",
+      "functions": [
+        "UART1_RXD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 206,
+      "name": "GPIO07 (PWM)",
+      "functions": [
+        "GPIO07 (PWM)"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 207,
+      "name": "UART1_RTS",
+      "functions": [
+        "UART1_RTS"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 208,
+      "name": "GPIO08 (SDMMC_CD)",
+      "functions": [
+        "GPIO08 (SDMMC_CD)"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 209,
+      "name": "UART1_CTS",
+      "functions": [
+        "UART1_CTS"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 210,
+      "name": "CLK_32K_OUT",
+      "functions": [
+        "CLK_32K_OUT"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 211,
+      "name": "GPIO09 (AUD_MCLK)",
+      "functions": [
+        "GPIO09 (AUD_MCLK)"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 212,
+      "name": "GPIO10",
+      "functions": [
+        "GPIO10"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 213,
+      "name": "CAM_I2C_SCL",
+      "functions": [
+        "CAM_I2C_SCL"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 214,
+      "name": "FORCE_RECOVERY",
+      "functions": [
+        "FORCE_RECOVERY"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 215,
+      "name": "CAM_I2C_SDA",
+      "functions": [
+        "CAM_I2C_SDA"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 216,
+      "name": "GPIO11 (CLK)",
+      "functions": [
+        "GPIO11 (CLK)"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 217,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 218,
+      "name": "GPIO12",
+      "functions": [
+        "GPIO12"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 219,
+      "name": "SDMMC_DAT0",
+      "functions": [
+        "SDMMC_DAT0"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 220,
+      "name": "I2S1_DOUT",
+      "functions": [
+        "I2S1_DOUT"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 221,
+      "name": "SDMMC_DAT1",
+      "functions": [
+        "SDMMC_DAT1"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 222,
+      "name": "I2S1_DIN",
+      "functions": [
+        "I2S1_DIN"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 223,
+      "name": "SDMMC_DAT2",
+      "functions": [
+        "SDMMC_DAT2"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 224,
+      "name": "I2S1_FS",
+      "functions": [
+        "I2S1_FS"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 225,
+      "name": "SDMMC_DAT3",
+      "functions": [
+        "SDMMC_DAT3"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 226,
+      "name": "I2S1_SCLK",
+      "functions": [
+        "I2S1_SCLK"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 227,
+      "name": "SDMMC_CMD",
+      "functions": [
+        "SDMMC_CMD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 228,
+      "name": "GPIO13 (PWM)",
+      "functions": [
+        "GPIO13 (PWM)"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 229,
+      "name": "SDMMC_CLK",
+      "functions": [
+        "SDMMC_CLK"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 230,
+      "name": "GPIO14 (PWM)",
+      "functions": [
+        "GPIO14 (PWM)"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 231,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 232,
+      "name": "I2C2_SCL",
+      "functions": [
+        "I2C2_SCL"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 233,
+      "name": "SHUTDOWN_REQ",
+      "functions": [
+        "SHUTDOWN_REQ"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 234,
+      "name": "I2C2_SDA",
+      "functions": [
+        "I2C2_SDA"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 235,
+      "name": "PMIC_BBAT",
+      "functions": [
+        "PMIC_BBAT"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 236,
+      "name": "(DEBUG) UART2_TXD",
+      "functions": [
+        "(DEBUG) UART2_TXD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 237,
+      "name": "POWER_EN",
+      "functions": [
+        "POWER_EN"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 238,
+      "name": "(DEBUG) UART2_RXD",
+      "functions": [
+        "(DEBUG) UART2_RXD"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 239,
+      "name": "SYS_RESET",
+      "functions": [
+        "SYS_RESET"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 240,
+      "name": "SLEEP/WAKE",
+      "functions": [
+        "SLEEP/WAKE"
+      ],
+      "domain": "signal",
+      "voltage": "unknown"
+    },
+    {
+      "number": 241,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 242,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 243,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 244,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 245,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 246,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 247,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 248,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 249,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 250,
+      "name": "GND",
+      "functions": [
+        "GND"
+      ],
+      "domain": "GND",
+      "voltage": "0V"
+    },
+    {
+      "number": 251,
+      "name": "VDD_IN",
+      "functions": [
+        "VDD_IN"
+      ],
+      "domain": "power",
+      "voltage": "19V"
+    },
+    {
+      "number": 252,
+      "name": "VDD_IN",
+      "functions": [
+        "VDD_IN"
+      ],
+      "domain": "power",
+      "voltage": "19V"
+    },
+    {
+      "number": 253,
+      "name": "VDD_IN",
+      "functions": [
+        "VDD_IN"
+      ],
+      "domain": "power",
+      "voltage": "19V"
+    },
+    {
+      "number": 254,
+      "name": "VDD_IN",
+      "functions": [
+        "VDD_IN"
+      ],
+      "domain": "power",
+      "voltage": "19V"
+    },
+    {
+      "number": 255,
+      "name": "VDD_IN",
+      "functions": [
+        "VDD_IN"
+      ],
+      "domain": "power",
+      "voltage": "19V"
+    },
+    {
+      "number": 256,
+      "name": "VDD_IN",
+      "functions": [
+        "VDD_IN"
+      ],
+      "domain": "power",
+      "voltage": "19V"
+    },
+    {
+      "number": 257,
+      "name": "VDD_IN",
+      "functions": [
+        "VDD_IN"
+      ],
+      "domain": "power",
+      "voltage": "19V"
+    },
+    {
+      "number": 258,
+      "name": "VDD_IN",
+      "functions": [
+        "VDD_IN"
+      ],
+      "domain": "power",
+      "voltage": "19V"
+    },
+    {
+      "number": 259,
+      "name": "VDD_IN",
+      "functions": [
+        "VDD_IN"
+      ],
+      "domain": "power",
+      "voltage": "19V"
+    },
+    {
+      "number": 260,
+      "name": "VDD_IN",
+      "functions": [
+        "VDD_IN"
+      ],
+      "domain": "power",
+      "voltage": "19V"
+    }
+  ]
+}

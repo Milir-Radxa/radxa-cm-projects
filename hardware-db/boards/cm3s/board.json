@@ -1,0 +1,15 @@
+{
+  "id": "cm3s",
+  "name": "Radxa CM3S",
+  "category": "cm",
+  "soc": "RK3566",
+  "form_factor": "sodimm",
+  "revision": null,
+  "links": [
+    {
+      "label": "product",
+      "url": "https://rock.sh/cm3s"
+    }
+  ],
+  "maintained_by": "radxa"
+}
