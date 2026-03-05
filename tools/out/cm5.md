@@ -7,4 +7,7 @@
 - Interface breakdown: none
 - Capability tags: cm4_compatible, edge_ai
 - Power inputs: unknown unknown via unknown
+- Price tier: $50-$100
+- Compatible alternatives: Raspberry Pi CM4
+- Open source level: carrier_board_oshw
 - Data path: hardware-db/boards/cm5

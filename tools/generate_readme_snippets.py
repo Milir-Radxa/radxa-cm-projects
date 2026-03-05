@@ -56,6 +56,9 @@ def build_snippet(board_id: str, board: dict, interfaces: dict, power: dict, cap
         f"- Interface breakdown: {iface_breakdown}",
         f"- Capability tags: {tag_text}",
         f"- Power inputs: {power_summary(power.get('inputs', []))}",
+        f"- Price tier: {caps.get('price_tier', 'unknown')}",
+        f"- Compatible alternatives: {', '.join(caps.get('compatible_alternatives', [])) or 'none'}",
+        f"- Open source level: {caps.get('open_source_level', 'unknown')}",
         f"- Data path: hardware-db/boards/{board_id}",
     ]
 

@@ -7,5 +7,10 @@
   "recommended_use_cases": [
     "industrial",
     "nas"
-  ]
+  ],
+  "price_tier": "sub-$30",
+  "compatible_alternatives": [
+    "Raspberry Pi CM3/CM3+"
+  ],
+  "open_source_level": "carrier_board_oshw"
 }

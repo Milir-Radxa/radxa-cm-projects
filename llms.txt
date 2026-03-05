@@ -11,7 +11,7 @@ Hardware DB Layout
 The machine readable source of truth lies in `/hardware-db/`. No agent should attempt to parse Markdown tables for specs; read the JSON.
 - `hardware-db/schemas/*.schema.json`: JSON schemas outlining data relationships.
 - `hardware-db/boards/<id>/board.json`: Static metadata (SoC, form_factor, etc).
-- `hardware-db/boards/<id>/capabilities.json`: Search tags (e.g. edge_ai, poe), limits and use cases.
+- `hardware-db/boards/<id>/capabilities.json`: Search tags, limits, `compatible_alternatives`, `open_source_level` and `price_tier`. Use this for generating comparisons or replacement guides for users.
 - `hardware-db/boards/<id>/interfaces.json`: Machine-parsable I/O lane connectivity.
 - `hardware-db/boards/<id>/power.json`: Absolute power input metrics.
 - `hardware-db/boards/<id>/pinout.json`: Ground truth pin definitions and electrical domains.

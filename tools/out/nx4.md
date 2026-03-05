@@ -7,4 +7,7 @@
 - Interface breakdown: none
 - Capability tags: sodimm, general_compute
 - Power inputs: unknown unknown via unknown
+- Price tier: $50-$100
+- Compatible alternatives: Jetson Nano
+- Open source level: carrier_board_oshw
 - Data path: hardware-db/boards/nx4

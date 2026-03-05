@@ -7,4 +7,7 @@
 - Interface breakdown: none
 - Capability tags: sodimm, general_compute
 - Power inputs: unknown unknown via unknown
+- Price tier: sub-$30
+- Compatible alternatives: Raspberry Pi CM3/CM3+
+- Open source level: carrier_board_oshw
 - Data path: hardware-db/boards/cm3s

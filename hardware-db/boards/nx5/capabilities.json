@@ -7,5 +7,10 @@
   "recommended_use_cases": [
     "edge_ai",
     "nas"
-  ]
+  ],
+  "price_tier": "$100-$150",
+  "compatible_alternatives": [
+    "Jetson Orin Nano"
+  ],
+  "open_source_level": "carrier_board_oshw"
 }

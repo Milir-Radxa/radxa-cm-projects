@@ -7,5 +7,10 @@
   "recommended_use_cases": [
     "robotics",
     "industrial"
-  ]
+  ],
+  "price_tier": "sub-$50",
+  "compatible_alternatives": [
+    "Raspberry Pi CM4"
+  ],
+  "open_source_level": "carrier_board_oshw"
 }
