@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://radxa.com/schemas/hardware-db/power.schema.json",
+  "$id": "https://raw.githubusercontent.com/radxa/radxa-som-projects/main/hardware-db/schemas/power.schema.json",
   "title": "Hardware DB Power",
   "type": "object",
   "additionalProperties": false,
