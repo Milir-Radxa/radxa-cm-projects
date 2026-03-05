@@ -37,6 +37,26 @@ Machine readable hardware knowledge is added under `hardware-db` for agents and 
 - `tools/generate_readme_snippets.py`: generates `tools/out/<id>.md` summaries
 - `tools/validate_db.py`: validates all board data against schema
 
+### Why this matters (How it works)
+
+To ensure both human documentation and machine-readable data never go out of sync, this repository operates under a unified **Single Source of Truth** pipeline:
+
+```mermaid
+graph TD
+    A[(Raw Schematics / PDFs)] -->|Extract / Verify| B[hardware-db JSON Files]
+    B -->|Verified Against| C{JSON Schemas}
+    C -->|If Valid| D[tools/generate_readme_snippets.py]
+    D -->|Injects / Updates| E[Human README.md Files]
+    
+    style B fill:#3498db,stroke:#2980b9,color:#fff
+    style C fill:#f39c12,stroke:#d35400,color:#fff
+    style E fill:#2ecc71,stroke:#27ae60,color:#fff
+```
+
+1. **Hardware Engineers/Contributors** write structured core data into `/hardware-db/` `.json`.
+2. **Pre-commit Hooks & CI** validate that structure against `/schemas/`.
+3. **Python Scripts** dynamically query the DB to print human-readable summary specs directly into each target documentation folder via `AGENT_SPEC_START` markdown blocks!
+
 ### Quick start
 
 1. Create a Python virtual environment
